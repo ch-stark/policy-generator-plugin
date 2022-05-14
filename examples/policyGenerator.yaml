@@ -33,7 +33,7 @@ policies:
           metadata:
             labels:
               chandler: bing
-  remediationAction: enforce
+  remediationAction: inform
 - name: policy-app-config-others
   disabled: true
   manifests:
